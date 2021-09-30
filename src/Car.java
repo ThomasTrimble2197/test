@@ -1,3 +1,5 @@
+//Project 3
+
 public class Car {
 
     //car characteristics
@@ -5,6 +7,7 @@ public class Car {
     int carYear;
     String manufactuerer;
     
+
     /* 
     color = color of the car
     year = year car was made
